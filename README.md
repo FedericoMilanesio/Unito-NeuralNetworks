@@ -1,5 +1,5 @@
 # Tutorial Notebooks for Neural Networks and Deep Learning
-This repository contains Jupyter notebooks used for tutoring students in the "Neural Networks" and "Deep Learning" courses during the academic year 2023/2024. The tutorials cover various topics related to the usage of PyTorch, a popular deep learning framework.
+This repository contains Jupyter notebooks used for tutoring students in the [Neural Networks](https://www.fisicamagistrale.unito.it/do/corsi.pl/Show?_id=6e6f) and [Deep Learning](https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=curx) courses during the academic year 2023/2024. The tutorials cover various topics related to the usage of PyTorch, a popular deep learning framework.
 
 ### Contents
 The repository includes the following notebooks:
