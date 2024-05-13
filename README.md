@@ -21,7 +21,7 @@ You can either run these notebooks on Google Colab or download them to your loca
 We welcome any feedback or contributions to improve these tutorials. Feel free to open an issue or submit a pull request with your suggestions, corrections, or additional content.
 
 ### Authors
-The tutorials were created by Federico Milanesio and Davide Pirovano at UniTO, both PhD candidates currently working in neural networks and deep learning.
+The tutorials were created by Federico Milanesio and Davide Pirovano at UniTO, both PhD students currently working in neural networks and deep learning.
 
 Federico Milanesio - federico.milanesio@unito.it
 Davide Pirovano - davide.pirovano@unito.it
