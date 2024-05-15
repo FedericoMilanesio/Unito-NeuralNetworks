@@ -12,7 +12,7 @@ The repository includes the following notebooks:
 
 *Lesson 3* - **Convolutional Neural Networks**: We dive into the world of CNNs with PyTorch. This notebook demonstrates how to create CNN architectures for image classification tasks. In it, we also talk about the difference between using GPUs vs CPUs and how to perform data augmentation.
 
-*Lesson 4* - **TBD**
+*Lesson 4* - **Setting up a project**: In this notebok we explain how to find a dataset and upload it in PyTorch, how to set up your network and how to tune your model hyperparameters
 
 ### Usage
 You can either run these notebooks on Google Colab or download them to your local machine and execute them using Jupyter Notebook or JupyterLab. To run them locally, ensure you have Python installed along with the necessary dependencies (PyTorch, NumPy, Matplotlib, etc.).
