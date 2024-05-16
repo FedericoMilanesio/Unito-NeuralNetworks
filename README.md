@@ -14,6 +14,8 @@ The repository includes the following notebooks:
 
 *Lesson 4* - **Setting up a project**: In this notebok we explain how to find a dataset and upload it in PyTorch, how to set up your network and how to tune your model hyperparameters
 
+*Lesson 5* (bonus) - **Autoencoders**: A shorter lesson with the basics of how to implement and train a simple autoencoder for MNIST digits
+
 ### Usage
 You can either run these notebooks on Google Colab or download them to your local machine and execute them using Jupyter Notebook or JupyterLab. To run them locally, ensure you have Python installed along with the necessary dependencies (PyTorch, NumPy, Matplotlib, etc.).
 
