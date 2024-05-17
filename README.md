@@ -4,11 +4,11 @@ This repository contains Jupyter notebooks used for tutoring students in the [Ne
 ### Contents
 The repository includes the following notebooks:
 
-*Lesson 0* - **Introduction to Python**: This notebook provides an overview of Python
+*Lesson 0* - **Introduction to Python**: An overview of Python for those who have never coded before
 
-*Lesson 1* - **Pytorch**: This notebooks expalins the features of Torch, including its basic operations, tensor manipulation and autograd
+*Lesson 1* - **Pytorch**: This notebook covers the main features of Torch, including its basic operations, tensor manipulation and autograd
 
-*Lesson 2* - **Building Neural Networks**: This notebook covers PyTorch's torch.nn module, with topics such as defining network architectures, implementing forward and backward passes, and optimizing models with different optimization algorithms
+*Lesson 2* - **Building Neural Networks**: We cover PyTorch's torch.nn module, with topics such as defining network architectures, implementing forward and backward passes, and optimizing models with different optimization algorithms
 
 *Lesson 3* - **Convolutional Neural Networks**: We dive into the world of CNNs with PyTorch. This notebook demonstrates how to create CNN architectures for image classification tasks. In it, we also talk about the difference between using GPUs vs CPUs and how to perform data augmentation.
 
