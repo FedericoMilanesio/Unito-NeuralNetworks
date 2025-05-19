@@ -12,9 +12,10 @@ The repository includes the following notebooks:
 
 *Lesson 3* - **Convolutional Neural Networks**: We dive into the world of CNNs with PyTorch. This notebook demonstrates how to create CNN architectures for image classification tasks. In it, we also talk about the difference between using GPUs vs CPUs and how to perform data augmentation.
 
-*Lesson 4* - **Setting up a project**: In this notebok we explain how to find a dataset and upload it in PyTorch, how to tune your model hyperparameters and how to create a saliency map
+*Lesson 4* - **Autoencoders**: A shorter lesson with the basics of how to implement and train a simple autoencoder for MNIST digits
 
-*Lesson 5* (bonus) - **Autoencoders**: A shorter lesson with the basics of how to implement and train a simple autoencoder for MNIST digits
+*Lesson 5* - **Setting up a project**: In this notebok we explain how to find a dataset and upload it in PyTorch, how to tune your model hyperparameters and how to create a saliency map
+
 
 ### Usage
 You can either run these notebooks on Google Colab or download them to your local machine and execute them using Jupyter Notebook or JupyterLab. To run them locally, ensure you have Python installed along with the necessary dependencies (PyTorch, NumPy, Matplotlib, etc.).
