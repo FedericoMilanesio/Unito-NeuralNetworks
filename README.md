@@ -1,5 +1,5 @@
 # Tutorial Notebooks for Pytorch
-This repository contains Jupyter notebooks used for tutoring students in the [Neural Networks](https://www.fisicamagistrale.unito.it/do/corsi.pl/Show?_id=6e6f) and [Deep Learning](https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=curx) courses during the academic years 2023/2024 and 2024/2025. The tutorials cover various topics related to the usage of PyTorch, a popular deep learning framework.
+This repository contains Jupyter notebooks used for tutoring students in the [Neural Networks](https://www.fisicamagistrale.unito.it/do/corsi.pl/Show?_id=6e6f) and [Deep Learning](https://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=curx) courses during the academic years 2023/2024, 2024/2025 and 2025/2026. The tutorials cover various topics related to the usage of PyTorch, a popular deep learning framework.
 
 ### Contents
 The repository includes the following notebooks:
@@ -14,7 +14,7 @@ The repository includes the following notebooks:
 
 *Lesson 4* - **Autoencoders**: A shorter lesson with the basics of how to implement and train a simple autoencoder for MNIST digits
 
-*Lesson 5* - **Setting up a project**: In this notebok we explain how to find a dataset and upload it in PyTorch, how to tune your model hyperparameters and how to create a saliency map
+*Lesson 5* - **Setting up a project**: In this notebook, we explain how to find a dataset and upload it to PyTorch, how to tune your model hyperparameters, and how to create a saliency map
 
 
 ### Usage
@@ -24,10 +24,11 @@ You can either run these notebooks on Google Colab or download them to your loca
 We welcome any feedback or contributions to improve these tutorials. Feel free to open an issue or submit a pull request with your suggestions, corrections, or additional content.
 
 ### Authors
-The tutorials were created by Federico Milanesio and Davide Pirovano at UniTO, both PhD students currently working in neural networks and deep learning.
+The tutorials were originally developed by Federico Milanesio and Davide Pirovano at UniTO, both as PhD students working in neural networks and deep learning. In 2025, Samuele Marabotto took over from Davide as tutor and helped update and revise the tutorials for the current edition.
 
 Federico Milanesio - federico.milanesio@unito.it
 Davide Pirovano - davide.pirovano@unito.it
+Samuele Marabotto - samuele.marabotto@unito.it
 
 ### License
 © 2024. This work is openly licensed via [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/by-nc-sa/4.0/)
